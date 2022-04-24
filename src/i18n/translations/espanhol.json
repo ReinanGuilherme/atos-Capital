@@ -1,0 +1,79 @@
+{
+    "translation": {
+
+        "_comment1" : "Textos Itens do menu, links que irão redirecionar o usuario até o conteudo",
+        "QUEM_SOMOS": "QUIENES SOMOS",
+        "SOLUCOES": "SOLUCIONES",
+        "PARCEIROS": "SOCIOS",
+        "CLIENTES": "CLIENTE",
+        "BLOG": "BLOG",
+        "CONTATO": "CONTACTO",
+
+        "_comment2": "Textos Header H1",
+        "HeaderH1": "B1Cards Suite - Complemento de reconciliación para SAP Business One",
+
+        "_comment3": "Textos Quem Somos",
+        "QuemSomosH2": "Atos Capital",
+        "QuemSomosP1": "ATOS CAPITAL es Partner Oficial Fintech de SAP con soluciones financieras certificadas para SAP Business One.",
+        "QuemSomosP2": "Con la innovación, la tecnología y la relación con el cliente como marcas registradas, nuestras soluciones financieras están integradas con más de 130 actores del mercado, más de 40 mil millones de reales procesados, clientes en todos los estados de Brasil y varios casos de éxito.",
+        "QuemSomosP3": "Tenemos una fuerte relación de asociación con todos los VAR del mercado y también estamos asociados con B1Alliance, la asociación oficial de empresas asociadas de SAP en Brasil.",
+        "QuemSomosP4": "Brasileña y genuinamente nororiental, contamos con oficinas en São Paulo y Aracaju con un equipo de expertos comprometidos a ofrecer el mejor servicio y soporte a nuestros clientes.",
+
+        "_comment4": "Textos Serviços Financeiros",
+        "ServicosFinanceirosH2": "Nuestras soluciones",
+        "B1Cards": "El SAP Addon B1Cards, es la solución Oficial certificada por SAP para la Conciliación de Medios de Pago para SAP Business One. Integrado con más de 130 players del mercado de Medios de Pago, así como varios POS's, TEF, Sefaz y muchas otras fuentes de información relevantes, actúa en la conciliación de tarjetas, comprobantes, adquirentes, pasarelas de pago para E-Commerces, Marketplaces , Envíos, Cuentas Digitales, Dinero, Pix, TED, DOC y mucho más.",
+        "B1Pay":"El SAP Addon B1Pay es una solución de Pago Electrónico para SAP Business One, actuando como otra alternativa para la automatización de los procesos de Cuentas por Pagar, de forma integrada y automatizada con los principales bancos brasileños.",
+        "B1Bill":"El SAP Addon B1Bill, es una solución para Emisión de Boletos y Cobranza, actuando como una alternativa para la automatización de procesos de Facturación/Facturación de gran escala. Toda la estructura de gestión de las renegociaciones y tratamientos de gestión realizados en B1Bill que proporcionan una gestión vista de todo el proceso financiero con SAP Business One.",
+        "B1TaxInvoices": "SAP Addon B1TaxInvoices es una solución de automatización y gestión de facturas/facturas para SAP Business One. Actos en Entrada de Documentos, Actualización de Inventario y Generación de Cuentas por Cobrar en SAP. Integrado con Sefaz a través de certificados digitales con acceso vía Manifiesto del Destinatario, B1TaxInvoices realiza el procesamiento automático de Facturas, gestión y almacenamiento de información, y generación en SAP.",
+        "B1Expenses": "SAP Addon B1Expenses es una solución de gestión de gastos corporativos para SAP Business One. Una alternativa más para la gestión de gastos integrada a los principales bancos brasileños y también americanos.",
+        "Cards4": "SAP Addon Cards/4 es la solución para la Conciliación de Medios de Pago para SAP ECC o S/4 Hana. Integrado con más de 130 players del mercado de Medios de Pago y con SAP ECC o S/4 Hana a través de Atos Capital Middleware, opera en la conciliación de tarjetas, vales, adquirentes, pasarelas de pago para E-Commerces, Marketplaces, Delivery, Cuentas Digitales , Money, Pix, TED, DOC y mucho más.",
+        "CardServices": "Solución de Atos Capital para la Conciliación de Medios de Pago para más de 50 ERP del mercado, en particular, todas las soluciones TOTVS, todas las soluciones Linx, ERP Mega, entre otras. Integrado con más de 130 jugadores en el mercado de Medios de Pago, opera en la conciliación de tarjetas, vales, adquirentes, pasarelas de pago para E-Commerces, Marketplaces, Deliverys, Cuentas Digitales, Money, Pix, TED, DOC y mucho más.",
+        "TaxServices": "TaxServices es una solución de Automatización y Factura/Gestión de Facturas para más de 50 ERPs del mercado, en especial todas las soluciones TOTVS, todas las soluciones Linx, ERP Mega, entre otras. Automatización en Entrada de Documentos, Actualización de Inventarios y Generación de Cuentas por Cobrar en ERPs, Integrado con Sefaz a través de certificados digitales con acceso vía Manifiesto del Destinatario, TaxServices realiza el procesamiento automático de Facturas, manejo y almacenamiento de información, y la generación en ERPs.",
+
+        "_comment5": "Textos dos Parceiros",
+        "ParceirosH2": "Socios",
+        "SapP1": "SAP, multinacional alemana que opera en Brasil desde hace 50 años, es la mayor empresa de software de gestión del mundo. Presente en más de 180 países, con más de 440 mil clientes de las empresas más grandes e innovadoras del planeta.",
+        "SapP2": "A través de PartnerEdge, Atos Capital obtuvo la aprobación como empresa Official Partner, clasificada como SAP Solution Provider con la solución certificada oficialmente, B1Cards - Payment Means Reconciliation for SAP Business One.",
+        "SapP3": "Actualmente, Atos Capital lidera este segmento en Brasil con varios casos de éxito en empresas grandes y expresivas del panorama nacional.",
+
+        "B1AllianceP1": "B1Alliance es la alianza de empresas asociadas oficiales de SAP en Brasil, especialistas en verticales de negocios que tienen como objetivo apoyar el ecosistema SAP Business One.",
+        "B1AllianceP2": "Presente en más de 12 países diferentes entre América Latina, Estados Unidos y Europa.",
+        "B1AllianceP3": "Cuenta con soluciones para varios verticales que, junto con SAP Business One, ayudan a empresas de diferentes segmentos con una solución integrada y fácil de implementar.",
+        "B1AllianceP4": "Atos Capital fue aprobado en el proceso de selección, convirtiéndose en miembro de la Alianza propietaria de las principales empresas del ecosistema.",
+
+
+        "_comment6": "Blog | Ta na Mídia",
+        "BlogH2": "Blog | Esta en los medios",
+
+        "Slide1H3": "Atos Capital es patrocinador del SAP Partner Sales Meeting 2021",
+        "Slide1P": "El mayor evento del Ecosistema SAP Business One en Brasil, llega a São Paulo en un nuevo formato, cumpliendo con todas las normas de salud estipuladas por el Ministerio de Salud y en un modelo híbrido (presencial y en línea), brindando la experiencia más innovadora y lúdica. y socios tecnológicos de aps SAP Business One Brasil.",
+
+        "Slide2H3": "Granado Pharmácias adopta la Suite B1 Capital",
+        "Slide2P": "Con una trayectoria de más de 150 años en el mercado, Granado Pharmácias, una de las principales empresas de cosméticos de Brasil, con industria, más de 80 tiendas en todo...",
+
+        "Slide3H3": "BBLend innova en gestión con B1Cards Suite",
+        "Slide3P": "BBLend, una empresa de Ambev/Whirlpool, proveedora de máquinas precocinadas y bebidas, viene expandiendo sólidamente sus operaciones en Brasil, ampliando sus ventas tanto en e-commerce como con su...",
+
+        "_comment7": "Textos Formulario Fale Conosco",
+        "FaleConoscoH2": "¡Hable Con Nosotros!",
+        "NomeLabel": "Nombre",
+        "NomeTextoObrigatorio": "¡El nombre es un campo obligatorio!",
+        "EmailLabel": "Email",
+        "EmailTextoObrigatorio": "¡El correo electrónico es un campo obligatorio!",
+        "EmailTextoValido": "Introduzca una dirección de correo electrónico válida.",
+        "MensagemLabel": "Mensaje",
+        "MensagemTextoObrigatorio": "El mensaje debe tener al menos 10 caracteres.",
+        
+        "_commentFooter": "Textos do Footer",
+        "Address1": "Unidad de São Paulo:",
+        "Address2": "Base de Operaciones - Noreste:",
+        "politicaDePrivacidade1": "Política de privacidad ",
+        "politicaDePrivacidade2": "Política de privacidad ",
+
+        "_commentButton": "Textos dos botões",
+        "ButtonType01": "Leer la historia completa",
+        "ButtonType02": "¡ENVIAR MENSAJE!",
+        "ButtonType03": "VER MÁS",
+        "ButtonType04": "Material Completo"
+    }
+}

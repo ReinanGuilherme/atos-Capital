@@ -1,0 +1,79 @@
+{
+    "translation": {
+
+        "_comment1" : "Textos Itens do menu, links que irão redirecionar o usuario até o conteudo",
+        "QUEM_SOMOS": "WHO WE ARE",
+        "SOLUCOES": "SOLUTIONS",
+        "PARCEIROS": "PARTNERS",
+        "CLIENTES": "CLIENT",
+        "BLOG": "BLOG",
+        "CONTATO": "CONTACT",
+
+        "_comment2": "Textos Header H1",
+        "HeaderH1": "B1Cards Suite - Reconciliation Addon for SAP Business One",
+
+        "_comment3": "Textos Quem Somos",
+        "QuemSomosH2": "Atos Capital",
+        "QuemSomosP1": "ATOS CAPITAL is an Official Fintech partner of SAP with certified financial solutions for SAP Business One.",
+        "QuemSomosP2": "With innovation, technology and customer relationship as trademarks, our financial solutions are integrated with more than 130 market players, more than 40 billion reais processed, customers in all states of Brazil and several success cases.",
+        "QuemSomosP3": "We have a strong partnership relationship with all VARs in the market and we are also associated with B1Alliance, the official association of SAP partner companies in Brazil.",
+        "QuemSomosP4": "Brazilian and genuinely Northeastern, we have offices in São Paulo and Aracaju with a team of experts committed to offering the best service and support to our customers.",
+
+        "_comment4": "Textos Serviços Financeiros",
+        "ServicosFinanceirosH2": "Our Solutions",
+        "B1Cards": "The SAP Addon B1Cards, is the Official solution certified by SAP for the Reconciliation of Means of Payment for SAP Business One. Integrated with more than 130 players in the Means of Payment market, as well as several POS's, TEF, Sefaz and many other relevant sources of information, it acts in the reconciliation of cards, vouchers, acquirers, payment gateways for E-Commerces, Marketplaces, Deliverys, Digital Accounts, Money, Pix, TED, DOC and much more.",
+        "B1Pay":"The SAP Addon B1Pay is an Electronic Payment solution for SAP Business One, acting as another alternative for the automation of Accounts Payable processes, in an integrated and automated way with the main Brazilian banks.",
+        "B1Bill":"The SAP Addon B1Bill, is a solution for Issuance of Boletos and Collection, acting as an alternative for the automation of large-scale Invoicing/Billing processes. The entire management structure of the renegotiations and management treatments carried out in B1Bill that provide a view management of the entire financial process with SAP Business One.",
+        "B1TaxInvoices": "The SAP Addon B1TaxInvoices is an Automation and Invoice/Invoice Management solution for SAP Business One. Acts in Document Entry, Inventory Update and Accounts Receivable Generation in SAP. Integrated with Sefaz through digital certificates with access via the Recipient's Manifest, B1TaxInvoices performs the automatic processing of Invoices, information management and storage, and generation in SAP.",
+        "B1Expenses": "The SAP Addon B1Expenses, is a Corporate Expense Management solution for SAP Business One. One more alternative for the management of expenses integrated to the main Brazilian banks and also American banks.",
+        "Cards4": "SAP Addon Cards/4 is the solution for Payment Means Reconciliation for SAP ECC or S/4 Hana. Integrated with more than 130 players in the Means of Payment market and with SAP ECC or S/4 Hana through Atos Capital Middleware, it operates in the reconciliation of cards, vouchers, acquirers, payment gateways for E-Commerces, Marketplaces, Deliverys, Digital Accounts, Money, Pix, TED, DOC and much more.",
+        "CardServices": "Atos Capital Solution for Payment Means Reconciliation for more than 50 ERPs on the market, in particular, all TOTVS solutions, all Linx solutions, ERP Mega, among others. Integrated with more than 130 players in the Means of Payment market, it acts in the reconciliation of cards, vouchers, acquirers, payment gateways for E-Commerces, Marketplaces, Deliverys, Digital Accounts, Money, Pix, TED, DOC and much more.",
+        "TaxServices": "TaxServices is an Automation and Invoice/Invoice Management solution for more than 50 ERPs on the market, especially all TOTVS solutions, all Linx solutions, ERP Mega, among others. Automation in Document Entry, Inventory Update and Accounts Receivable Generation in ERPs, Integrated with Sefaz through digital certificates with access via the Recipient's Manifest, TaxServices performs the automatic processing of Invoices, information management and storage, and the generation in ERPs.",
+
+        "_comment5": "Textos dos Parceiros",
+        "ParceirosH2": "Partners",
+        "SapP1": "SAP, a German multinational that has been operating in Brazil for 50 years, is the largest management software company in the world. Present in more than 180 countries, with more than 440 thousand customers of the largest and most innovative companies on the planet.",
+        "SapP2": "Through PartnerEdge, Atos Capital won approval as an Official Partner company, classified as a SAP Solution Provider with the Officially certified solution, B1Cards - Payment Means Reconciliation for SAP Business One.",
+        "SapP3": "Currently, Atos Capital leads this segment in Brazil with several success stories in large and expressive companies on the national scene.",
+
+        "B1AllianceP1": "B1Alliance is the alliance of official SAP partner companies in Brazil, specialists in business verticals that aim to support the SAP Business One ecosystem.",
+        "B1AllianceP2": "Present in more than 12 different countries between Latin America, the United States and Europe.",
+        "B1AllianceP3": "It has solutions for several verticals that, together with SAP Business One, help companies from different segments with an integrated and easy-to-implement solution.",
+        "B1AllianceP4": "Atos Capital was approved in the selection process, becoming a member of the Alliance that owns the main companies in the ecosystem.",
+
+
+        "_comment6": "Blog | Ta na Mídia",
+        "BlogH2": "Blog | It's in the Media",
+
+        "Slide1H3": "Atos Capital is a sponsor of the SAP Partner Sales Meeting 2021",
+        "Slide1P": "The biggest event of the SAP Business One Ecosystem in Brazil, arrives in São Paulo in a new format, meeting all the health rules stipulated by the Ministry of Health and in a hybrid model (in person and Online), providing the most innovative, playful and technological aps partners SAP Business One Brazil.",
+
+        "Slide2H3": "Granado Pharmácias Adopts Suite B1 Capital",
+        "Slide2P": "With a history of more than 150 years in the market, Granado Pharmácias, one of the main cosmetics companies in Brazil, with industry, more than 80 stores throughout...",
+
+        "Slide3H3": "BBLend Innovates in Management with B1Cards Suite",
+        "Slide3P": "BBLend, an Ambev/Whirlpool company, supplier of pre-ready machines and drinks, has been solidly expanding its operations in Brazil, expanding its sales both in e-commerce and with its...",
+
+        "_comment7": "Textos Formulario Fale Conosco",
+        "FaleConoscoH2": "Contact Us!",
+        "NomeLabel": "Name",
+        "NomeTextoObrigatorio": "Name is a required field!",
+        "EmailLabel": "Email",
+        "EmailTextoObrigatorio": "E-mail is a required field!",
+        "EmailTextoValido": "Enter a valid email address.",
+        "MensagemLabel": "Message",
+        "MensagemTextoObrigatorio": "Message must be at least 10 characters long.",
+        
+        "_commentFooter": "Textos do Footer",
+        "Address1": "Sao Paulo Unit:",
+        "Address2": "Base of Operations - Northeast:",
+        "politicaDePrivacidade1": "Privacy Policy",
+        "politicaDePrivacidade2": "Privacy Policy",
+
+        "_commentButton": "Textos dos botões",
+        "ButtonType01": "Read Full Story",
+        "ButtonType02": "SEND MESSAGE!",
+        "ButtonType03": "VIEW MORE",
+        "ButtonType04": "Complete Material"
+    }
+}

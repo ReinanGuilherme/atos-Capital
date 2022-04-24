@@ -1,0 +1,696 @@
+<svg id="g2461" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.596" height="24.628" viewBox="0 0 34.596 24.628">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="circle1944" cx="4.495" cy="4.495" r="4.495"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="path1889" d="M0,.428V0H.385V.428ZM.193.141V.214H.385V.141Z" transform="translate(0)"/>
+    </clipPath>
+  </defs>
+  <path id="rect2216" d="M-3091.662-2164.163h34.6v24.628h-34.6Z" transform="translate(3091.662 2164.163)" fill="#009b3a"/>
+  <path id="path1940" d="M-2566.079-1628.449l15.115,10.131,15.115-10.131-15.115-10.131Z" transform="translate(2568.262 1640.764)" fill="#fedf00"/>
+  <circle id="circle1942" cx="4.495" cy="4.495" r="4.495" transform="translate(12.803 7.82)" fill="#002776"/>
+  <g id="Grupo_3856" data-name="Grupo 3856" transform="translate(12.803 7.82)" clip-path="url(#clip-path)">
+    <path id="path1947" d="M-3246.244-452.833a10.916,10.916,0,0,1,10.916-10.916,10.916,10.916,0,0,1,10.916,10.916h-.642a10.274,10.274,0,0,0-10.274-10.274,10.274,10.274,0,0,0-10.273,10.274Z" transform="translate(3237.255 466.318)" fill="#fff"/>
+  </g>
+  <g id="g1979" transform="translate(13.282 10.31)">
+    <path id="use1949" d="M.193.428A.2.2,0,0,0,.385.214.2.2,0,0,0,.193,0,.2.2,0,0,0,0,.214.2.2,0,0,0,.193.428m0-.079A.125.125,0,0,0,.306.214.125.125,0,0,0,.193.079.125.125,0,0,0,.079.214.125.125,0,0,0,.193.349" transform="translate(0 0.106) rotate(-7)" fill="#009b3a" fill-rule="evenodd"/>
+    <g id="use1951" transform="translate(0.562 0.042) rotate(-4)">
+      <path id="use1902" d="M0,.428H.079V.269H.251A.135.135,0,1,0,.251,0H.006ZM.079.19H.245a.055.055,0,1,0,0-.11H.079Z" transform="translate(0 0)" fill-rule="evenodd"/>
+      <path id="path1904" d="M.208.2c0-.061,0-.2-.092-.2H0C.135,0,.135.135.135.2" transform="translate(0.156 0.232)"/>
+    </g>
+    <path id="use1953" d="M0,.428H.2A.183.183,0,0,0,.385.245V.183A.183.183,0,0,0,.2,0H0ZM.079.349H.2A.116.116,0,0,0,.312.232V.2A.116.116,0,0,0,.2.079H.079Z" transform="matrix(1, -0.017, 0.017, 1, 1.127, 0.007)" fill="#009b3a" fill-rule="evenodd"/>
+    <path id="use1955" d="M0,.428H.385V.349H.073V.238H.318V.165H.073V.079H.367V0H0Z" transform="translate(1.693 0.002) rotate(2)" fill="#009b3a"/>
+    <path id="use1957" d="M0,.428H.073V.135L.159.428H.226L.312.135V.428H.385V0H.278L.193.294.107,0H0Z" transform="translate(2.259 0.026) rotate(5)" fill="#009b3a"/>
+    <path id="use1959" d="M0,.385H.321V.312H.073v-.1h.2V.141h-.2V.073h.24V0H0Z" transform="matrix(0.986, 0.169, -0.169, 0.986, 3.173, 0.173)" fill="#009b3a"/>
+    <path id="use1961" d="M0,.428H.079V.269H.251A.135.135,0,1,0,.251,0H.006ZM.079.19H.245a.055.055,0,1,0,0-.11H.079Z" transform="translate(4.028 0.298) rotate(14.5)" fill="#009b3a" fill-rule="evenodd"/>
+    <g id="use1963" transform="translate(4.575 0.444) rotate(17.5)">
+      <path id="use1902-2" data-name="use1902" d="M0,.428H.079V.269H.251A.135.135,0,0,0,.251,0H.006ZM.079.19H.245a.055.055,0,1,0,0-.11H.079Z" transform="translate(0 0)" fill-rule="evenodd"/>
+      <path id="path1904-2" data-name="path1904" d="M.208.2c0-.061,0-.2-.092-.2H0C.135,0,.135.135.135.2" transform="translate(0.156 0.232)"/>
+    </g>
+    <path id="use1965" d="M.193.428A.2.2,0,0,0,.385.214.2.2,0,0,0,.193,0,.2.2,0,0,0,0,.214.2.2,0,0,0,.193.428m0-.079A.125.125,0,0,0,.306.214.125.125,0,0,0,.193.079.125.125,0,0,0,.079.214.125.125,0,0,0,.193.349" transform="translate(5.113 0.619) rotate(20.5)" fill="#009b3a" fill-rule="evenodd"/>
+    <g id="use1967" transform="translate(5.642 0.821) rotate(23.5)">
+      <g id="Grupo_3857" data-name="Grupo 3857" transform="translate(0)" clip-path="url(#clip-path-2)">
+        <path id="use1892" d="M.193.428A.2.2,0,0,0,.385.214.2.2,0,0,0,.193,0,.2.2,0,0,0,0,.214.2.2,0,0,0,.193.428m0-.079A.125.125,0,0,0,.306.214.125.125,0,0,0,.193.079.125.125,0,0,0,.079.214.125.125,0,0,0,.193.349" transform="translate(0 0)" fill-rule="evenodd"/>
+      </g>
+      <path id="rect1894" d="M0,0H.162V.061H0Z" transform="translate(0.223 0.214)"/>
+      <path id="rect1896" d="M0,0H.061V.214H0Z" transform="translate(0.324 0.214)"/>
+    </g>
+    <g id="use1969" transform="matrix(0.895, 0.446, -0.446, 0.895, 6.159, 1.051)">
+      <path id="use1902-3" data-name="use1902" d="M0,.428H.079V.269H.251A.135.135,0,0,0,.251,0H.006ZM.079.19H.245a.055.055,0,1,0,0-.11H.079Z" transform="translate(0 0)" fill-rule="evenodd"/>
+      <path id="path1904-3" data-name="path1904" d="M.208.2c0-.061,0-.2-.092-.2H0C.135,0,.135.135.135.2" transform="translate(0.156 0.232)"/>
+    </g>
+    <path id="use1971" d="M0,.428H.385V.349H.073V.238H.318V.165H.073V.079H.367V0H0Z" transform="translate(6.663 1.308) rotate(29.5)" fill="#009b3a"/>
+    <path id="use1973" d="M.1.294C.1.336.138.358.2.358S.289.338.289.31C.289.223,0,.278,0,.125.006-.006.156,0,.211,0S.37.025.368.13H.275C.275.084.232.067.183.067S.1.075.1.119C.1.191.385.144.385.3c0,.112-.11.133-.193.133S0,.4,0,.294Z" transform="matrix(0.843, 0.537, -0.537, 0.843, 7.154, 1.591)" fill="#009b3a"/>
+    <path id="use1975" d="M.1.294C.1.336.138.358.2.358S.289.338.289.31C.289.223,0,.278,0,.125.006-.006.156,0,.211,0S.37.025.368.13H.275C.275.084.232.067.183.067S.1.075.1.119C.1.191.385.144.385.3c0,.112-.11.133-.193.133S0,.4,0,.294Z" transform="matrix(0.814, 0.581, -0.581, 0.814, 7.628, 1.899)" fill="#009b3a"/>
+    <path id="use1977" d="M.193.428A.2.2,0,0,0,.385.214.2.2,0,0,0,.193,0,.2.2,0,0,0,0,.214.2.2,0,0,0,.193.428m0-.079A.125.125,0,0,0,.306.214.125.125,0,0,0,.193.079.125.125,0,0,0,.079.214.125.125,0,0,0,.193.349" transform="translate(8.086 2.232) rotate(38.5)" fill="#009b3a" fill-rule="evenodd"/>
+  </g>
+  <g id="αCMi" transform="translate(12.123 11.012)">
+    <g id="use1921" transform="translate(0 0)">
+      <g id="c" transform="translate(0.12 0)">
+        <path id="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912" transform="translate(0.366 0.046) rotate(72)">
+        <path id="t-2" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-2" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914" transform="translate(0 0.22) rotate(-72)">
+        <path id="t-3" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-3" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.399, 0.295)">
+        <path id="t-4" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-4" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.172, 0.402)">
+        <path id="t-5" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-5" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="αCMa" transform="translate(12.661 13.617)">
+    <g id="use1921-2" data-name="use1921" transform="translate(0 0)">
+      <g id="c-2" data-name="c" transform="translate(0.12 0)">
+        <path id="t-6" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-6" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-2" data-name="use1912" transform="translate(0.366 0.046) rotate(72)">
+        <path id="t-7" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-7" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-2" data-name="use1914" transform="translate(0 0.22) rotate(-72)">
+        <path id="t-8" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-8" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-2" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.399, 0.295)">
+        <path id="t-9" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-9" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-2" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.172, 0.402)">
+        <path id="t-10" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-10" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="βCMa" transform="translate(11.955 14.203)">
+    <g id="use1924" transform="translate(0 0)">
+      <g id="c-3" data-name="c" transform="translate(0.1)">
+        <path id="t-11" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-11" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-3" data-name="use1912" transform="translate(0.305 0.038) rotate(72)">
+        <path id="t-12" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-12" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-3" data-name="use1914" transform="translate(0 0.184) rotate(-72)">
+        <path id="t-13" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-13" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-3" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.332, 0.246)">
+        <path id="t-14" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-14" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-3" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.144, 0.335)">
+        <path id="t-15" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-15" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="γCMa" transform="translate(13.376 13.333)">
+    <g id="use1930" transform="translate(0 0)">
+      <g id="c-4" data-name="c" transform="translate(0.057)">
+        <path id="t-16" data-name="t" d="M0,0V.092H.046" transform="translate(0.044 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-16" data-name="use1909" d="M0,.092V0H.046" transform="translate(0.072 0.087) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-4" data-name="use1912" transform="translate(0.174 0.022) rotate(72)">
+        <path id="t-17" data-name="t" d="M0,0V.092H.046" transform="translate(0.044 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-17" data-name="use1909" d="M0,.092V0H.046" transform="translate(0.072 0.087) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-4" data-name="use1914" transform="translate(0 0.105) rotate(-72)">
+        <path id="t-18" data-name="t" d="M0,0V.092H.046" transform="translate(0.044 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-18" data-name="use1909" d="M0,.092V0H.046" transform="translate(0.072 0.087) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-4" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.19, 0.14)">
+        <path id="t-19" data-name="t" d="M0,0V.092H.046" transform="translate(0.044 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-19" data-name="use1909" d="M0,.092V0H.046" transform="translate(0.072 0.087) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-4" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.082, 0.192)">
+        <path id="t-20" data-name="t" d="M0,0V.092H.046" transform="translate(0.044 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-20" data-name="use1909" d="M0,.092V0H.046" transform="translate(0.072 0.087) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="δCMa" transform="translate(13.964 14.262)">
+    <g id="use1924-2" data-name="use1924" transform="translate(0 0)">
+      <g id="c-5" data-name="c" transform="translate(0.1)">
+        <path id="t-21" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-21" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-5" data-name="use1912" transform="translate(0.305 0.038) rotate(72)">
+        <path id="t-22" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-22" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-5" data-name="use1914" transform="translate(0 0.184) rotate(-72)">
+        <path id="t-23" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-23" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-5" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.332, 0.246)">
+        <path id="t-24" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-24" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-5" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.144, 0.335)">
+        <path id="t-25" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-25" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="εCMa" transform="translate(13.82 14.905)">
+    <g id="use1927" transform="translate(0 0)">
+      <g id="c-6" data-name="c" transform="translate(0.08)">
+        <path id="t-26" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-26" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-6" data-name="use1912" transform="translate(0.244 0.031) rotate(72)">
+        <path id="t-27" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-27" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-6" data-name="use1914" transform="translate(0 0.147) rotate(-72)">
+        <path id="t-28" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-28" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-6" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.266, 0.196)">
+        <path id="t-29" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-29" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-6" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.115, 0.268)">
+        <path id="t-30" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-30" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="αVir" transform="translate(18.973 10.203)">
+    <g id="use1921-3" data-name="use1921" transform="translate(0 0)">
+      <g id="c-7" data-name="c" transform="translate(0.12 0)">
+        <path id="t-31" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-31" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-7" data-name="use1912" transform="translate(0.366 0.046) rotate(72)">
+        <path id="t-32" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-32" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-7" data-name="use1914" transform="translate(0 0.22) rotate(-72)">
+        <path id="t-33" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-33" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-7" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.399, 0.295)">
+        <path id="t-34" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-34" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-7" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.172, 0.402)">
+        <path id="t-35" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-35" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="αSco" transform="translate(21.347 14.3)">
+    <g id="use1921-4" data-name="use1921" transform="translate(0 0)">
+      <g id="c-8" data-name="c" transform="translate(0.12 0)">
+        <path id="t-36" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-36" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-8" data-name="use1912" transform="translate(0.366 0.046) rotate(72)">
+        <path id="t-37" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-37" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-8" data-name="use1914" transform="translate(0 0.22) rotate(-72)">
+        <path id="t-38" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-38" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-8" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.399, 0.295)">
+        <path id="t-39" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-39" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-8" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.172, 0.402)">
+        <path id="t-40" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-40" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="βSco" transform="translate(22.254 14.417)">
+    <g id="use1927-2" data-name="use1927" transform="translate(0 0)">
+      <g id="c-9" data-name="c" transform="translate(0.08)">
+        <path id="t-41" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-41" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-9" data-name="use1912" transform="translate(0.244 0.031) rotate(72)">
+        <path id="t-42" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-42" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-9" data-name="use1914" transform="translate(0 0.147) rotate(-72)">
+        <path id="t-43" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-43" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-9" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.266, 0.196)">
+        <path id="t-44" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-44" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-9" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.115, 0.268)">
+        <path id="t-45" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-45" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="εSco" transform="translate(21.627 14.876)">
+    <g id="use1924-3" data-name="use1924" transform="translate(0 0)">
+      <g id="c-10" data-name="c" transform="translate(0.1)">
+        <path id="t-46" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-46" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-10" data-name="use1912" transform="translate(0.305 0.038) rotate(72)">
+        <path id="t-47" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-47" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-10" data-name="use1914" transform="translate(0 0.184) rotate(-72)">
+        <path id="t-48" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-48" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-10" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.332, 0.246)">
+        <path id="t-49" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-49" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-10" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.144, 0.335)">
+        <path id="t-50" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-50" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="θSco" transform="translate(20.164 16.173)">
+    <g id="use1924-4" data-name="use1924" transform="translate(0 0)">
+      <g id="c-11" data-name="c" transform="translate(0.1)">
+        <path id="t-51" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-51" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-11" data-name="use1912" transform="translate(0.305 0.038) rotate(72)">
+        <path id="t-52" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-52" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-11" data-name="use1914" transform="translate(0 0.184) rotate(-72)">
+        <path id="t-53" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-53" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-11" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.332, 0.246)">
+        <path id="t-54" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-54" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-11" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.144, 0.335)">
+        <path id="t-55" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-55" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="ιSco" transform="translate(20.189 16.823)">
+    <g id="use1927-3" data-name="use1927" transform="translate(0 0)">
+      <g id="c-12" data-name="c" transform="translate(0.08)">
+        <path id="t-56" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-56" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-12" data-name="use1912" transform="translate(0.244 0.031) rotate(72)">
+        <path id="t-57" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-57" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-12" data-name="use1914" transform="translate(0 0.147) rotate(-72)">
+        <path id="t-58" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-58" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-12" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.266, 0.196)">
+        <path id="t-59" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-59" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-12" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.115, 0.268)">
+        <path id="t-60" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-60" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="κSco" transform="translate(20.8 15.712)">
+    <g id="use1927-4" data-name="use1927" transform="translate(0 0)">
+      <g id="c-13" data-name="c" transform="translate(0.08)">
+        <path id="t-61" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-61" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-13" data-name="use1912" transform="translate(0.244 0.031) rotate(72)">
+        <path id="t-62" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-62" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-13" data-name="use1914" transform="translate(0 0.147) rotate(-72)">
+        <path id="t-63" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-63" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-13" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.266, 0.196)">
+        <path id="t-64" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-64" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-13" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.115, 0.268)">
+        <path id="t-65" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-65" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="λSco" transform="translate(21.255 15.373)">
+    <g id="use1924-5" data-name="use1924" transform="translate(0 0)">
+      <g id="c-14" data-name="c" transform="translate(0.1)">
+        <path id="t-66" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-66" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-14" data-name="use1912" transform="translate(0.305 0.038) rotate(72)">
+        <path id="t-67" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-67" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-14" data-name="use1914" transform="translate(0 0.184) rotate(-72)">
+        <path id="t-68" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-68" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-14" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.332, 0.246)">
+        <path id="t-69" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-69" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-14" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.144, 0.335)">
+        <path id="t-70" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-70" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="μSco" transform="translate(20.172 15.595)">
+    <g id="use1927-5" data-name="use1927" transform="translate(0 0)">
+      <g id="c-15" data-name="c" transform="translate(0.08)">
+        <path id="t-71" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-71" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-15" data-name="use1912" transform="translate(0.244 0.031) rotate(72)">
+        <path id="t-72" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-72" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-15" data-name="use1914" transform="translate(0 0.147) rotate(-72)">
+        <path id="t-73" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-73" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-15" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.266, 0.196)">
+        <path id="t-74" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-74" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-15" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.115, 0.268)">
+        <path id="t-75" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-75" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="αHya" transform="translate(14.807 12.409)">
+    <g id="use1924-6" data-name="use1924" transform="translate(0 0)">
+      <g id="c-16" data-name="c" transform="translate(0.1)">
+        <path id="t-76" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-76" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-16" data-name="use1912" transform="translate(0.305 0.038) rotate(72)">
+        <path id="t-77" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-77" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-16" data-name="use1914" transform="translate(0 0.184) rotate(-72)">
+        <path id="t-78" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-78" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-16" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.332, 0.246)">
+        <path id="t-79" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-79" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-16" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.144, 0.335)">
+        <path id="t-80" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-80" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="γHya" transform="translate(18.809 11.877)">
+    <g id="use1927-6" data-name="use1927" transform="translate(0 0)">
+      <g id="c-17" data-name="c" transform="translate(0.08)">
+        <path id="t-81" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-81" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-17" data-name="use1912" transform="translate(0.244 0.031) rotate(72)">
+        <path id="t-82" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-82" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-17" data-name="use1914" transform="translate(0 0.147) rotate(-72)">
+        <path id="t-83" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-83" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-17" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.266, 0.196)">
+        <path id="t-84" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-84" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-17" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.115, 0.268)">
+        <path id="t-85" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-85" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="αCru" transform="translate(17.087 14.906)">
+    <g id="use1921-5" data-name="use1921" transform="translate(0 0)">
+      <g id="c-18" data-name="c" transform="translate(0.12 0)">
+        <path id="t-86" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-86" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-18" data-name="use1912" transform="translate(0.366 0.046) rotate(72)">
+        <path id="t-87" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-87" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-18" data-name="use1914" transform="translate(0 0.22) rotate(-72)">
+        <path id="t-88" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-88" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-18" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.399, 0.295)">
+        <path id="t-89" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-89" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-18" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.172, 0.402)">
+        <path id="t-90" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-90" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="βCru" transform="translate(17.825 13.706)">
+    <g id="use1924-7" data-name="use1924" transform="translate(0 0)">
+      <g id="c-19" data-name="c" transform="translate(0.1)">
+        <path id="t-91" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-91" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-19" data-name="use1912" transform="translate(0.305 0.038) rotate(72)">
+        <path id="t-92" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-92" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-19" data-name="use1914" transform="translate(0 0.184) rotate(-72)">
+        <path id="t-93" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-93" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-19" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.332, 0.246)">
+        <path id="t-94" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-94" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-19" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.144, 0.335)">
+        <path id="t-95" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-95" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="γCru" transform="translate(17.122 13.15)">
+    <g id="use1924-8" data-name="use1924" transform="translate(0 0)">
+      <g id="c-20" data-name="c" transform="translate(0.1)">
+        <path id="t-96" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-96" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-20" data-name="use1912" transform="translate(0.305 0.038) rotate(72)">
+        <path id="t-97" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-97" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-20" data-name="use1914" transform="translate(0 0.184) rotate(-72)">
+        <path id="t-98" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-98" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-20" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.332, 0.246)">
+        <path id="t-99" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-99" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-20" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.144, 0.335)">
+        <path id="t-100" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-100" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="δCru" transform="translate(16.546 13.736)">
+    <g id="use1927-7" data-name="use1927" transform="translate(0 0)">
+      <g id="c-21" data-name="c" transform="translate(0.08)">
+        <path id="t-101" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-101" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-21" data-name="use1912" transform="translate(0.244 0.031) rotate(72)">
+        <path id="t-102" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-102" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-21" data-name="use1914" transform="translate(0 0.147) rotate(-72)">
+        <path id="t-103" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-103" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-21" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.266, 0.196)">
+        <path id="t-104" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-104" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-21" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.115, 0.268)">
+        <path id="t-105" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-105" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="εCru" transform="translate(16.892 14.198)">
+    <g id="use1930-2" data-name="use1930" transform="translate(0)">
+      <g id="c-22" data-name="c" transform="translate(0.057)">
+        <path id="t-106" data-name="t" d="M0,0V.092H.046" transform="translate(0.044 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-106" data-name="use1909" d="M0,.092V0H.046" transform="translate(0.072 0.087) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-22" data-name="use1912" transform="translate(0.174 0.022) rotate(72)">
+        <path id="t-107" data-name="t" d="M0,0V.092H.046" transform="translate(0.044 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-107" data-name="use1909" d="M0,.092V0H.046" transform="translate(0.072 0.087) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-22" data-name="use1914" transform="translate(0 0.105) rotate(-72)">
+        <path id="t-108" data-name="t" d="M0,0V.092H.046" transform="translate(0.044 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-108" data-name="use1909" d="M0,.092V0H.046" transform="translate(0.072 0.087) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-22" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.19, 0.14)">
+        <path id="t-109" data-name="t" d="M0,0V.092H.046" transform="translate(0.044 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-109" data-name="use1909" d="M0,.092V0H.046" transform="translate(0.072 0.087) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-22" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.082, 0.192)">
+        <path id="t-110" data-name="t" d="M0,0V.092H.046" transform="translate(0.044 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-110" data-name="use1909" d="M0,.092V0H.046" transform="translate(0.072 0.087) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="αTrA" transform="translate(18.941 16.324)">
+    <g id="use1924-9" data-name="use1924" transform="translate(0 0)">
+      <g id="c-23" data-name="c" transform="translate(0.1)">
+        <path id="t-111" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-111" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-23" data-name="use1912" transform="translate(0.305 0.038) rotate(72)">
+        <path id="t-112" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-112" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-23" data-name="use1914" transform="translate(0 0.184) rotate(-72)">
+        <path id="t-113" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-113" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-23" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.332, 0.246)">
+        <path id="t-114" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-114" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-23" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.144, 0.335)">
+        <path id="t-115" data-name="t" d="M0,0V.161H.08" transform="translate(0.076 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-115" data-name="use1909" d="M0,.161V0H.08" transform="translate(0.126 0.153) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="βTrA" transform="translate(19.495 15.805)">
+    <g id="use1927-8" data-name="use1927" transform="translate(0 0)">
+      <g id="c-24" data-name="c" transform="translate(0.08)">
+        <path id="t-116" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-116" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-24" data-name="use1912" transform="translate(0.244 0.031) rotate(72)">
+        <path id="t-117" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-117" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-24" data-name="use1914" transform="translate(0 0.147) rotate(-72)">
+        <path id="t-118" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-118" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-24" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.266, 0.196)">
+        <path id="t-119" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-119" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-24" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.115, 0.268)">
+        <path id="t-120" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-120" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="γTrA" transform="translate(18.495 15.654)">
+    <g id="use1927-9" data-name="use1927" transform="translate(0 0)">
+      <g id="c-25" data-name="c" transform="translate(0.08)">
+        <path id="t-121" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-121" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-25" data-name="use1912" transform="translate(0.244 0.031) rotate(72)">
+        <path id="t-122" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-122" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-25" data-name="use1914" transform="translate(0 0.147) rotate(-72)">
+        <path id="t-123" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-123" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-25" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.266, 0.196)">
+        <path id="t-124" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-124" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-25" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.115, 0.268)">
+        <path id="t-125" data-name="t" d="M0,0V.128H.064" transform="translate(0.061 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-125" data-name="use1909" d="M0,.128V0H.064" transform="translate(0.101 0.122) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="αCar" transform="translate(14.646 15.412)">
+    <g id="use1921-6" data-name="use1921" transform="translate(0 0)">
+      <g id="c-26" data-name="c" transform="translate(0.12 0)">
+        <path id="t-126" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-126" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-26" data-name="use1912" transform="translate(0.366 0.046) rotate(72)">
+        <path id="t-127" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-127" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-26" data-name="use1914" transform="translate(0 0.22) rotate(-72)">
+        <path id="t-128" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-128" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-26" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.399, 0.295)">
+        <path id="t-129" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-129" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-26" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.172, 0.402)">
+        <path id="t-130" data-name="t" d="M0,0V.193H.1" transform="translate(0.092 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-130" data-name="use1909" d="M0,.193V0H.1" transform="translate(0.151 0.183) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+  <g id="σOct" transform="translate(17.228 17.078)">
+    <g id="use1933" transform="translate(0 0)">
+      <g id="c-27" data-name="c" transform="translate(0.04)">
+        <path id="t-131" data-name="t" d="M0,0V.064H.032" transform="translate(0.031 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-131" data-name="use1909" d="M0,.064V0H.032" transform="translate(0.05 0.061) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1912-27" data-name="use1912" transform="translate(0.122 0.015) rotate(72)">
+        <path id="t-132" data-name="t" d="M0,0V.064H.032" transform="translate(0.031 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-132" data-name="use1909" d="M0,.064V0H.032" transform="translate(0.05 0.061) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1914-27" data-name="use1914" transform="translate(0 0.073) rotate(-72)">
+        <path id="t-133" data-name="t" d="M0,0V.064H.032" transform="translate(0.031 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-133" data-name="use1909" d="M0,.064V0H.032" transform="translate(0.05 0.061) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1916-27" data-name="use1916" transform="matrix(-0.809, 0.588, -0.588, -0.809, 0.133, 0.098)">
+        <path id="t-134" data-name="t" d="M0,0V.064H.032" transform="translate(0.031 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-134" data-name="use1909" d="M0,.064V0H.032" transform="translate(0.05 0.061) rotate(162)" fill="#fff"/>
+      </g>
+      <g id="use1918-27" data-name="use1918" transform="matrix(-0.809, -0.588, 0.588, -0.809, 0.057, 0.134)">
+        <path id="t-135" data-name="t" d="M0,0V.064H.032" transform="translate(0.031 0) rotate(18)" fill="#fff"/>
+        <path id="use1909-135" data-name="use1909" d="M0,.064V0H.032" transform="translate(0.05 0.061) rotate(162)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
